@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FaceApp</string>
+    <string name="open">open</string>
+    <string name="see_log">see log</string>
+    <string name="add_user">add user</string>
+    <string name="view_user">view users</string>
+</resources>
